@@ -1,0 +1,291 @@
+@font-face {
+  font-family: nftFont;
+  src: url(Walkway\ Oblique\ Bold.ttf);
+}
+
+.Logo {
+  font-family: nftFont;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.title_div {
+  width: 150px;
+  display: inline-block;
+}
+
+.search_bar {
+  display: inline-block;
+  width: 450px;
+  height: 30px;
+  margin-left: 50px;
+  border-radius: 150px;
+  padding-left: 15px;
+  margin-right: 500px;
+}
+
+.trb {
+  height: 140px;
+  width: 85px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 3px;
+  margin-top: 0px;
+  border: none;
+  background-color: white;
+  transition: background-color 0.3s;
+  transition: color 0.3s;
+  transition: width 0.15s;
+  transition: margin-top 0.15s;
+  float: right;
+  font-family: nftFont;
+}
+
+.trb:hover {
+  background-color: rgb(32, 181, 240);
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  transition: color 0.3s;
+  width: 95px;
+  margin-top: 10px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.trb:active {
+  background-color: black;
+  color: white;
+}
+
+.featurednfts {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.NFT_image {
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 10px;
+  vertical-align: top;
+}
+
+.nft_whole_div {
+  width: 305px;
+  height: 450px;
+  display: inline-block;
+  /* vertical-align: top; */
+}
+
+.nft_disc_text {
+  font-family: Arial;
+  display: inline-block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.eth {
+  width: 50px;
+  display: inline-block;
+  border-radius: 50px;
+}
+
+.price {
+  width: 100px;
+  color: blueviolet;
+  display: inline-block;
+  margin-top: 15px;
+  vertical-align: top;
+  padding-left: 10px;
+}
+
+.bottom_border {
+  border: 2px solid black;
+  border-radius: 9px;
+  width: 300px;
+  display: inline-block;
+}
+
+.img_div {
+  width: 50px;
+  display: inline-block;
+}
+
+.bottom_border_center {
+  border: 2px solid black;
+  border-radius: 9px;
+  width: 300px;
+  display: inline-block;
+}
+
+.whole_featured_nft_div {
+  margin-left: auto;
+  margin-right: auto;
+  width: 935px;
+}
+
+.whole_collection_bar {
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  font-family: Arial;
+  margin-bottom: 65px;
+}
+
+.whole_top_row_div {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1250px;
+  height: 450px;
+}
+
+.whole_mid_row_div {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1250px;
+  height: 450px;
+}
+
+.whole_bottom_row_div {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1250px;
+  height: 450px;
+}
+/* Main Page ends here*/
+
+/* About Us Starts here */
+
+.header_who_you_are {
+  font-family: nftFont;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  margin-top: 59px;
+}
+
+.about_text {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 37px;
+  width: 850px;
+  font-family: Arial;
+}
+
+/* Detailsofprod.html starts here */
+
+.main_h1_details {
+  font-family: nftFont;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+}
+
+.main_h1_details_h2 {
+  font-family: nftFont;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+}
+
+.main_h1_details_p {
+  font-family: nftFont;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  font-size: larger;
+}
+
+.text_detail_p {
+  margin-left: auto;
+  margin-right: auto;
+  width: 550px;
+  margin-top: 55px;
+  font-family: Arial;
+}
+
+.text_details_notice {
+  margin-left: auto;
+  margin-right: auto;
+  width: 550px;
+  height: 75px;
+  font-family: Arial;
+}
+
+.text_detail_purchase {
+  margin-left: auto;
+  margin-right: auto;
+  width: 550px;
+  height: 75px;
+  margin-bottom: 1px;
+  font-family: Arial;
+}
+
+.text_detail_address {
+  margin-left: auto;
+  margin-right: auto;
+  width: 550px;
+  height: 75px;
+  margin-top: 0px;
+  font-family: Arial;
+  margin-bottom: 0px;
+}
+
+.disclaimer {
+  font-family: Arial;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  font-size: 16px;
+}
+
+/* Contact Page */
+
+.contact_heading {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  width: 170px;
+  font-family: nftFont;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.black_bar {
+  margin-right: auto;
+  margin-left: auto;
+  width: 800px;
+  height: 3px;
+  border: 1px solid black;
+  background: black;
+}
+
+.table_font {
+  font-family: Arial;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.centering_table {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+  width: 250px;
+  height: 150px;
+}
+
+.text_contacts {
+  font-family: Arial;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
